@@ -1004,7 +1004,7 @@ int main() {
 ```
 -------------------------------------------------------------------------------------
 
-## Separate Classes in Libraries
+# Separate Classes in Libraries
 
 ### If Using Visual Studio Code
 
