@@ -1,0 +1,12 @@
+In makuing any project you should us the 3 tier architecture method
+=> to make it easy for you when creating a mobile version or a desktop app or a web app all for the same project name
+
+
+The 3 tiers are :-
+
+    1 - Presentation Layer  (user interface of the application)
+    => The only tier that we change its code whether for desktop or web or mobile app
+
+    2- Buissness Layer (For classes and calculations)
+
+    3- Data Layer (Sql server and Storing procedures)
